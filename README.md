@@ -124,6 +124,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Projects to use as a base for your own games.*
 
+#### Godot 4.0+
+- [Godot 4 C# Project Template](https://github.com/ValksGodotTools/Template?tab=readme-ov-file) - Pure C# project template including Godot Utils, Thread Safe Logger, Event Manager, Main Menu, Scene Manager, Audio Manager, Global Auto Log, State Pattern. 
+
 #### Godot 3.5+
 
 - [bendn's Godot Template](https://github.com/bend-n/godot-template) - Game template using the [gpm](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
